@@ -63,7 +63,7 @@ class Profile_screen extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "Amelia Renata",
+                  "Jawadun Noor",
                   style: GoogleFonts.poppins(
                       fontSize: 16.sp,
                       fontWeight: FontWeight.w600,
@@ -205,7 +205,7 @@ class Profile_screen extends StatelessWidget {
                 ),
                 profile_list(
                   image: "lib/icons/heart2.png",
-                  title: "My Saved",
+                  title: "My Medical Info",
                   color: Colors.black87,
                 ),
                 Padding(

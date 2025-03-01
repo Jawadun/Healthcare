@@ -46,7 +46,7 @@ class on_board3 extends StatelessWidget {
                 child: Padding(
                   padding: const EdgeInsets.all(25),
                   child: Text(
-                    "Get connect our Online\nConsultation",
+                    "Have a happy and healthy \nUniversity life",
                     style: GoogleFonts.inter(
                         fontSize: 18.sp,
                         fontWeight: FontWeight.bold,

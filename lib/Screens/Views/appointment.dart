@@ -61,7 +61,7 @@ class appointment extends StatelessWidget {
               const doctorList(
                 distance: "800m away",
                 image: "lib/icons/male-doctor.png",
-                maintext: "Dr. Marcus Horizon",
+                maintext: "Dr. ABC",
                 numRating: "4.7",
                 subtext: "Cardiologist",
               ),

@@ -112,8 +112,8 @@ class Dashboard extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               listIcons(Icon: "lib/icons/Doctor.png", text: "Doctor"),
-              listIcons(Icon: "lib/icons/Pharmacy.png", text: "Pharmacy"),
-              listIcons(Icon: "lib/icons/Hospital.png", text: "Hospital"),
+              listIcons(Icon: "lib/icons/Pharmacy.png", text: "Medicine"),
+              listIcons(Icon: "lib/icons/Hospital.png", text: "Check Up"),
               listIcons(Icon: "lib/icons/Ambulance.png", text: "Ambulance"),
             ],
           ),

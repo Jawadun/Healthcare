@@ -33,7 +33,7 @@ class _TabBarExampleState extends State<shedule_screen>
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text(
-          "Top Doctors",
+          "Doctors",
           style: GoogleFonts.poppins(color: Colors.black, fontSize: 18.sp),
         ),
         centerTitle: false,
